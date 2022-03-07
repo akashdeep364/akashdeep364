@@ -43,7 +43,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I write blogs and read tech articles.
+- :zap: In my free time, I write blogs, make technical videos on youtube and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 
