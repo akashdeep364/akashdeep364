@@ -39,7 +39,7 @@
 
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a System Engineer.
+- :telescope: I’m working as a Data Analyst.
 
 - :seedling: Exploring Technical Content Writing.
 
