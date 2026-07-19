@@ -17,6 +17,11 @@
   <a href="https://www.hackerrank.com/akashdeep364">
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" width="130" alt="Hackerrank"/>
   </a>
+  <a href="https://www.hackerrank.com/akashdeep364">
+    <img src="<a href="https://leetcode.com/u/akashdeep364/">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" width="130" alt="Leetcode"/>
+  </a>" width="130" alt="Hackerrank"/>
+  </a>
 </div>
  
  <div id="badges" align="center">
