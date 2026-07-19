@@ -16,7 +16,7 @@
   </a>
   <a href="https://www.hackerrank.com/akashdeep364">
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" width="130" alt="Hackerrank"/>
-  </a>
+ 
   </a>
 </div>
  
