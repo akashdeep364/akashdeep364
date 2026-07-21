@@ -40,7 +40,7 @@
 
 I am a Data Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working with Data.
+- :telescope: I’m working with Data. https://leetcode.com/u/akashdeep364/
 
 - :seedling: Exploring Technical Content Writing.
 
